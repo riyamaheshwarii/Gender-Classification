@@ -22,6 +22,3 @@ confidence (0-1 float)
 
 
 
-
-
-
