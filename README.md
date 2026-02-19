@@ -17,7 +17,8 @@ confidence (0-1 float)
 
 ## Contributors
 
-\- Arya Singh
+\- Arya Singh Vishen
+
 
 
 
